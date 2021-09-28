@@ -5,7 +5,7 @@ authors: endi
 tags: [hello, docusaurus]
 ---
 
-HI is the summary of a very long blog post,
+HI from thanh DInh is the summary of a very long blog post,
 
 Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
 
